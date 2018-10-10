@@ -17,7 +17,8 @@
 	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg" /></a>
 	<br>
 	<br>
-	<a href="https://algorithms.abranhe.com"><code>algorithms.abranhe.com</code></a>
+	<a href="https://algorithms.abranhe.com"><code>algorithms.abranhe.com</code>
+	</a>
 </div>
 
 
